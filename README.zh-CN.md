@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://www.meigen.ai"><img src="https://img.shields.io/badge/网站-www.meigen.ai-blue?style=flat-square" alt="Website"></a>
-  <a href="prompts/prompts.json"><img src="https://img.shields.io/badge/提示词-1,186-green?style=flat-square" alt="1186 Prompts"></a>
+  <a href="prompts/prompts.json"><img src="https://img.shields.io/badge/提示词-1,309-green?style=flat-square" alt="1309 Prompts"></a>
   <a href="#data-formats"><img src="https://img.shields.io/badge/格式-JSON-orange?style=flat-square" alt="JSON"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/许可证-CC%20BY%204.0-lightgrey?style=flat-square" alt="CC BY 4.0"></a>
 </p>
@@ -56,7 +56,7 @@
 
 | 总计 | NanoBanana | GPT Image |
 |------|------------|-----------|
-| 1,186 | 987 | 199 |
+| 1,309 | 1,093 | 216 |
 
 ---
 
@@ -64,6 +64,7 @@
 
 | 日期 | 变更 |
 |------|------|
+| 2026-02-04 | 新增 123 条提示词，总计 1,309 条。 |
 | 2026-01-29 | 新增 135 条提示词，总计 1,186 条。 |
 | 2026-01-26 | 新增 51 条提示词，优化 78 条现有内容。 |
 

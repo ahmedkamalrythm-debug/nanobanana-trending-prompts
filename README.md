@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://www.meigen.ai"><img src="https://img.shields.io/badge/Website-www.meigen.ai-blue?style=flat-square" alt="Website"></a>
-  <a href="prompts/prompts.json"><img src="https://img.shields.io/badge/Prompts-1,186-green?style=flat-square" alt="1186 Prompts"></a>
+  <a href="prompts/prompts.json"><img src="https://img.shields.io/badge/Prompts-1,309-green?style=flat-square" alt="1309 Prompts"></a>
   <a href="#data-formats"><img src="https://img.shields.io/badge/Format-JSON-orange?style=flat-square" alt="JSON"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey?style=flat-square" alt="CC BY 4.0"></a>
 </p>
@@ -56,7 +56,7 @@ We also provide a [System Prompt](prompts/system-prompt-en.md) designed to trans
 
 | Total | NanoBanana | GPT Image |
 |-------|------------|-----------|
-| 1,186 | 987 | 199 |
+| 1,309 | 1,093 | 216 |
 
 ---
 
@@ -64,6 +64,7 @@ We also provide a [System Prompt](prompts/system-prompt-en.md) designed to trans
 
 | Date | Changes |
 |------|---------|
+| 2026-02-04 | Added 123 new prompts. Total: 1,309. |
 | 2026-01-29 | Added 135 new prompts. Total: 1,186. |
 | 2026-01-26 | Added 51 new prompts, improved 78 existing entries. |
 
