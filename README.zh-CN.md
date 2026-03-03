@@ -42,9 +42,22 @@
 4. **多感官描述是必要的** —— 质感、温度、甚至气味
 5. **按内容类型分组** —— 根据场景类型组织提示词结构
 
-| 浏览 | 数据 |
-|------|------|
-| [在线画廊](https://www.meigen.ai) | [prompts.json](prompts/prompts.json) |
+| 浏览 | 数据 | AI 工具集成 |
+|------|------|-------------|
+| [在线画廊](https://www.meigen.ai) | [prompts.json](prompts/prompts.json) | [MeiGen MCP](https://github.com/jau123/MeiGen-AI-Design-MCP) |
+
+### 在 AI 编程工具中使用
+
+这个提示词库已内置于 **[MeiGen MCP](https://github.com/jau123/MeiGen-AI-Design-MCP)** — 一个 MCP 服务器，让你在 Claude Code、Cursor、VS Code 等工具中直接搜索、浏览和生成图片。
+
+```bash
+# 一键配置你的工具
+npx meigen init cursor      # Cursor
+npx meigen init vscode      # VS Code / GitHub Copilot
+npx meigen init claude      # Claude Code
+```
+
+然后输入：*"搜索产品摄影灵感"* — 即可免费搜索整个提示词库，无需 API key。
 
 <sub>**注意：** 原始数据可能包含广告或低质量内容。我正在持续筛选和整理。如发现问题，请<a href="https://github.com/jau123/nanobanana-trending-prompts/issues">提交 Issue</a>。</sub>
 

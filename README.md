@@ -42,9 +42,22 @@ We also provide a [System Prompt](prompts/system-prompt-en.md) designed to trans
 4. **Multi-sensory descriptions are necessary** — texture, temperature, even smell
 5. **Group by content type** — structure prompts based on scene type
 
-| Browse | Data |
-|--------|------|
-| [Gallery](https://www.meigen.ai) | [prompts.json](prompts/prompts.json) |
+| Browse | Data | Use with AI Tools |
+|--------|------|-------------------|
+| [Gallery](https://www.meigen.ai) | [prompts.json](prompts/prompts.json) | [MeiGen MCP](https://github.com/jau123/MeiGen-AI-Design-MCP) |
+
+### Use with AI Coding Tools
+
+This prompt library is built into **[MeiGen MCP](https://github.com/jau123/MeiGen-AI-Design-MCP)** — an MCP server that lets you search, browse, and generate images directly from Claude Code, Cursor, VS Code, and more.
+
+```bash
+# One-command setup for your tool
+npx meigen init cursor      # Cursor
+npx meigen init vscode      # VS Code / GitHub Copilot
+npx meigen init claude      # Claude Code
+```
+
+Then ask: *"Search for product photography inspiration"* — it searches this entire prompt library for free, no API key needed.
 
 <sub>**Note:** Raw data may contain ads or low-quality content. I'm continuously filtering and curating. If you spot issues, please <a href="https://github.com/jau123/nanobanana-trending-prompts/issues">open an issue</a>.</sub>
 
